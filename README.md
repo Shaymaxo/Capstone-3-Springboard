@@ -36,7 +36,7 @@ A data-driven approach can recover millions in revenue by shifting to proactive,
 
 ## 📈 Data Overview & Methodology
 
-Dataset: Telco Customer Churn (Kaggle)  
+**Dataset** : Telco Customer Churn (Kaggle)  
 - 7,043 customer records, 21 features  
 - Demographics, services (internet, streaming), account info (contracts, payments), financials (tenure, charges)  
 
@@ -48,7 +48,7 @@ Workflow:
 4. Performance evaluation focused on business metrics (AUC, recall, precision)  
 5. Insight packaging via interactive Tableau dashboard  
 
-Tools & Tech: Python (Pandas, NumPy, Scikit-learn), Matplotlib, Seaborn, Tableau Public  
+**Tools & Tech** : Python (Pandas, NumPy, Scikit-learn), Matplotlib, Seaborn, Tableau Public  
 
 ---
 
@@ -203,7 +203,7 @@ A concise summary of the final models’ features, parameters, and performance i
 If you use this project for learning or production guidance, please reference the Springboard Data Science Career Track Capstone.
 
 🤝 Questions & Feedback
-For any questions or suggestions, open an issue or reach out to Shayma on GitHub. Happy analyzing!
+For any questions or suggestions, open an issue or reach out to me on GitHub. Happy analyzing!
 
 # Acknowledgments
 - Kaggle for providing the Telco Customer Churn dataset
