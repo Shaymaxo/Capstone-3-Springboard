@@ -1,6 +1,7 @@
 # Customer Churn Analysis: Predictive Modeling for Retention Strategy
 
 An end-to-end capstone project using interpretable machine learning and interactive dashboards to identify key drivers of churn and power proactive retention in subscription-based telecom services.
+
 By: Shayma Remy | August 2025 | Springboard Data Science Career Track
 
 ---
