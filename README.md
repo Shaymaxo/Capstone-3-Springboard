@@ -174,7 +174,7 @@ You can view them directly on GitHub:
 - Churn_Prediction_for_Online_Subscription_Services_Data_Wrangling.ipynb – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/main/Churn_Prediction_for_Online_Subscription_Services_Data_Wrangling.ipynb
 - Churn_Prediction_for_Online_Subscription_Services_EDA.ipynb – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/main/Churn_Prediction_for_Online_Subscription_Services_EDA.ipynb
 - Churn_Prediction_for_Online_Subscriptions_Modeling.ipynb – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/main/Churn_Prediction_for_Online_Subscriptions_Modeling.ipynb
-- Capstone_Final_Report.pdf – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/Capstone_Final_Report.pdf
+- Capstone_Final_Report.pdf – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/main/Capstone_Final_Report.pdf
 - Customer_Churn_Analysis_Predictive_Modeling_for_Retention_Strategy.pdf – https://github.com/Shaymaxo/Capstone-3-Springboard/blob/main/Customer_Churn_Analysis_Predictive_Modeling_for_Retention_Strategy.pdf
 
 ---
