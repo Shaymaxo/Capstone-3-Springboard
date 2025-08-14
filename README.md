@@ -150,6 +150,14 @@ PDF export included for quick sharing.
 - A/B testing framework for optimizing incentives and interventions
 
 ---
+# 📊 Interactive Dashboard
+Explore the interactive Tableau dashboard for dynamic analysis:
+- 🔗 Customer Churn Analysis Dashboard (https://public.tableau.com/app/profile/shayma.remy/viz/CustomerChurnAnalysis_17541038065910/CoverPage)
+# Dashboard Features
+- Dynamic filtering by risk scores, tenure, and contract types
+- Interactive segment identification
+- Real-time drill-down capabilities
+- Business intelligence insights
 
 ## 📂 Notebooks & Report
 
@@ -194,3 +202,26 @@ If you use this project for learning or production guidance, please reference th
 
 🤝 Questions & Feedback
 For any questions or suggestions, open an issue or reach out to Shayma on GitHub. Happy analyzing!
+
+# Acknowledgments
+- Kaggle for providing the Telco Customer Churn dataset
+- Springboard for capstone project guidance
+- Tableau Public for dashboard hosting capabilities
+
+# 📚 References & Resources
+- Dataset Source: Kaggle - Telco Customer Churn (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- Business Context: Customer retention economics in subscription businesses
+- Technical Implementation: Scikit-learn documentation and best practices
+- Visualization: Tableau Public dashboard development
+
+
+This project demonstrates the application of data science techniques to solve real-world business problems through predictive modeling and actionable insights for customer retention strategy.
+
+# 🎯 Project Highlights
+- ✅ Data Science Excellence: Complete ML pipeline from EDA to deployment
+- ✅ Business Impact: Clear ROI through targeted retention strategies
+- ✅ Model Interpretability: Explainable AI for stakeholder confidence
+- ✅ Interactive Visualization: Professional dashboard for ongoing analysis
+- ✅ Production Ready: Scalable implementation for business integration
+
+⭐ Star this repository if you found it helpful!
